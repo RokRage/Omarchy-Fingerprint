@@ -43,3 +43,5 @@ Proposed one-line change:
 After adding `3274`, `Setup → Security → Fingerprint` appears. The normal Omarchy fingerprint setup then completes successfully, and fingerprint authentication works through the Omarchy integration.
 
 Testing is specific to `3274:8012`; this report does not claim that all vendor-`3274` devices are supported.
+
+
